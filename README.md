@@ -44,10 +44,6 @@ Currently, I’m focused on improving my skills in **web development, programmin
 
 ---
 
-### 📂 Featured Projects
-- **[Project Name]** - A brief one-line description of what this project does.
-- **[Project Name]** - A brief one-line description of what this project does.
-
 ---
 
 ### 📊 My GitHub Journey
