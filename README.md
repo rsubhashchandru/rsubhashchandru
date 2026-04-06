@@ -10,7 +10,7 @@
 
 ---
 
-### 💫 About Me
+
 
 
 I’m **Subhash**, a second-year engineering student passionate about **software development and technology**. I have a strong interest in **Artificial Intelligence and Machine Learning**, and I enjoy exploring how these technologies can solve **real-world problems**.
