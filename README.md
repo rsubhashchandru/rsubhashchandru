@@ -47,14 +47,7 @@ Currently, I’m focused on improving my skills in **web development, programmin
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Subhash's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="170px" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsubhashchandru&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rsubhashchandru&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
