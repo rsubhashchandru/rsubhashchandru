@@ -1,6 +1,6 @@
 # Hey, I'm Subhash Chandru 👋
 
-### Full-Stack Web Developer | AI Enthusiast | Student
+###  AI Enthusiast | Student
 
 I focus on building scalable web applications and crafting clean user experiences. Currently honing my skills in full-stack architecture and digital branding.
 
