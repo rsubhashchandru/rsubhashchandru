@@ -1,4 +1,8 @@
-# Hey, I'm Subhash Chandru 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Subhash+Chandru+👋" />
+</p>
+
 
 ###  AI Enthusiast | Student
 
@@ -23,21 +27,9 @@ I focus on building scalable web applications and crafting clean user experience
 ### 📊 GitHub Stats
 
 
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsubhashchandru&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" /> </div>
 
-## 🌌 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsubhashchandru&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
