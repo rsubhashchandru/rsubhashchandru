@@ -3,12 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Subhash+Chandru+👋" />
 </p>
 
-
-###  AI Enthusiast | Student
-
-I focus on building scalable web applications and crafting clean user experiences. Currently honing my skills in full-stack architecture and digital branding.
-
----
+<p>
+💻 AI & Python Developer <br>
+🚀 Building Intelligent Applications with Machine Learning <br>
+🎓 Engineering Student | Open Source Learner
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -26,10 +25,30 @@ I focus on building scalable web applications and crafting clean user experience
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsubhashchandru&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" /> </div>
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/subhash-chandru/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://instagram.com/its_shaiva_subhash" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
