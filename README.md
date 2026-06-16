@@ -29,11 +29,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
-</p>
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsubhashchandru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsubhashchandru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsubhashchandru&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" /> </div>
+
+
+
+
 
 ## 🌐 Connect With Me
 
